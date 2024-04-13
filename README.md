@@ -1,4 +1,4 @@
-# genai_WS_SNN ABSTRACT
+# genai_KWS_SNN ABSTRACT
 Title: Always-On Spiking Neural Network Accelerator for Keyword Spotting with STDP  
 
 

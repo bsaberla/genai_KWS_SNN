@@ -7,8 +7,10 @@ Our project proposal focuses on optimizing the performance and energy efficiency
 
 Our hardware architecture consists of memory, compute, and a controller module that facilitates the detection of a Keyword set by the user. The feature extraction will entail several hardware modules that enable MFCC processing.
 
-For testing and validation, we will use the following datasets for key word spotting / speach recognition:
+For testing and validation, we will use the following datasets for keyword spotting/speech recognition:
+
 --> (2018) Speech commands dataset version 2. [Online]. Available: 
 http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+
 --> (2017) Speech commands dataset version 1. [Online]. Available: 
 http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz
